@@ -6,6 +6,7 @@ const port = 3000;
 
 const someOtherVar = "Hello World";
 const varaible2 = "Hello World 2";
+const variable3 = "This is Yuichi";
 
 const server = http.createServer((req, res)=>{
     const somevariable = "Hello world";
