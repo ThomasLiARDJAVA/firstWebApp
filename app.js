@@ -4,6 +4,7 @@ const module1 = require('./module1');
 const hostname = '127.0.0.1';//localhost
 const port = 3000;
 
+const someOtherVar = "Hello World";
 
 const server = http.createServer((req, res)=>{
     const somevariable = "Hello world";
